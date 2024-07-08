@@ -16,7 +16,7 @@ CMD_HNDLR = getenv("CMD_HNDLR", default=".")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 
-BOT_TOKEN = getenv("BOT_TOKEN", default=None)
+BOT_TOKEN = getenv("BOT_TOKEN", default="7398593479:AAGBpDPNXKSK2G3Jo5z6N_n9SuCw_D4bIYY")
 BOT_TOKEN2 = getenv("BOT_TOKEN2", default=None)
 BOT_TOKEN3 = getenv("BOT_TOKEN3", default=None)
 BOT_TOKEN4 = getenv("BOT_TOKEN4", default=None)
